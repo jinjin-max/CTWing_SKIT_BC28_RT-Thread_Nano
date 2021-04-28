@@ -153,7 +153,7 @@ int main(void)
     while (1)
     {
         /* USER CODE END WHILE */
-
+        printf("liujin");
         /* USER CODE BEGIN 3 */
         uint8_t printbuff[30] = {0};
         uint16_t j = 0;
